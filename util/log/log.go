@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/rs/zerolog"
-	"github.com/xvzc/SpoofDPI/util"
+	"github.com/osmaav/SpoofDPI/util"
 )
 
 const (
