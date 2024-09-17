@@ -6,9 +6,9 @@ import (
 	"regexp"
 	"strconv"
 
-	"github.com/xvzc/SpoofDPI/packet"
-	"github.com/xvzc/SpoofDPI/util"
-	"github.com/xvzc/SpoofDPI/util/log"
+	"github.com/osmaav/SpoofDPI/packet"
+	"github.com/osmaav/SpoofDPI/util"
+	"github.com/osmaav/SpoofDPI/util/log"
 )
 
 type HttpsHandler struct {
